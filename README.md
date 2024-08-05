@@ -1,6 +1,8 @@
-# BFF: A real-life implementation of Samantha from "Her"
+# Based on https://github.com/TheSlavant/BFF
 
-Now you can have a Samantha of your own! 
+This is an experiment to add a choice of persona, learning over time, local LLM options and more. I attribute the base code to TheSlavant, and you can see where this all started by checking out the original repository. I'm not looking to imitate Scarlett Johanssen's character Samantha, but create several unique characters instead.
+
+Here's a bit more from the original readme file. 
 
 BFF is an open-source initiative to create a personal AI assistant similar to the OS'es from the movie "Her". Like Samantha, your BFF will tailor its personality to you, be incredibly insightful, and will truly understand you. It will feel like talking to a smart, caring, and down-to-earth friend.
 
